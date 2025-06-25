@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning about **LLMs and Transformers**
 - 📫 How to reach me **stym4193@gmail.com**
-- ⚡ Fun fact: **If you ever feel useless, think about the guy that writes the terms & conditions**
+- ⚡ Fun fact: **If you ever feel useless, think about the guy who writes Terms & Conditions**
 
 
 # 💻 Tech Stack:
