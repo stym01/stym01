@@ -1,5 +1,9 @@
-# 💫 About Me:
-👋 Hi, I’m Satyam Kesharwani<br>👀 I’m interested in Data Structures and Algorithms<br>📫 How to reach me stym4193@gmail.com<br>😄 Pronouns: He/him<br>⚡ Fun fact: If you ever feel useless, think about the guy that writes the terms & conditions
+<h1 align="center">Hi 👋, I'm Satyam Kesharwani</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="stym01" /> </p>
+
+- 🌱 I’m currently learning about **LLMs and Transformers**
+- 📫 How to reach me **stym4193@gmail.com**
+- ⚡ Fun fact: **If you ever feel useless, think about the guy that writes the terms & conditions**
 
 
 # 💻 Tech Stack:
