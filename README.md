@@ -16,7 +16,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=stym01&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&&hide=Kotlin&exclude_repo=leetcode_editorial_solutions&layout=compact" />
 
@@ -34,6 +33,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: If you ever feel useless, think about the guy that writes the terms & conditions
 
+  <img src="https://github-readme-stats.vercel.app/api?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
 
 stym01/stym01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
