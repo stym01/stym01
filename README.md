@@ -1,59 +1,82 @@
 <h1 align="center">Hi 👋, I'm Satyam Kesharwani</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="stym01" /> </p>
 
-- 🌱 I’m currently learning about **LLMs and Transformers**
-- 📫 How to reach me **stym4193@gmail.com**
-- ⚡ Fun fact: **If you ever feel useless, think about the guy who writes Terms & Conditions**
+<p align="center">
+  <a href="https://satyamk.dev">
+    <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
+<p align="center">
+  <b>Backend & Systems Engineer | Pre-final year @ NIT Kurukshetra</b>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br/>
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-<br/>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-
-<div align="center">
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=stym01&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&&hide=Kotlin&exclude_repo=leetcode_editorial_solutions&layout=compact" />
-
-</div>
+### 🚀 Quick Facts
+- 🎓 **Pre-final year Computer Engineering student** at NIT Kurukshetra.
+- 💻 **Engineering systems that scale** (Distributed Systems, Low-Latency C++, ML).
+- ⚔️ **LeetCode Knight** (Max Rating 1908).
+- 📜 **Published researcher** (ICDAM 2025, NE-IECCE 2026).
+- ⚡ **Fun fact:** If you ever feel useless, think about the guy who writes Terms & Conditions.
+- 📫 **Reach me at:** stym4193@gmail.com | [LinkedIn](https://www.linkedin.com/in/stym01/) | [Portfolio](https://satyamk.dev)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stym01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Core Competencies & Tech Stack
 
-<!---
-- 👋 Hi, I’m Satyam Kesharwani
-- 👀 I’m interested in Data Structures and Algorithms
-- 📫 How to reach me stym4193@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: If you ever feel useless, think about the guy that writes the terms & conditions
+**Languages:**  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+**Backend & Systems:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-stym01/stym01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
- - 🌱 I’m currently learning Data Structures and Algorithms in C++
- - 💞️ I’m looking to collaborate on ...
+**Databases:**  
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Transformers<br>💬 Ask me about<br>⚡ Fun fact
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=stym01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stym01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Machine Learning & Data:**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=stym01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created it GPRM ( https://gprm.itsvg.in ) -->
- 
+### 🔥 Featured Projects
 
+- **[AtomicKV: High-Throughput Database Engine](https://github.com/stym01/In-Memory-Key-Value-Storage-using-cpp)**  
+  Architected a production-grade, in-memory key-value store from scratch using C++17, Linux epoll, and TCP sockets. Built a custom O(1) LRU Cache, zero-overhead TTL expiration, and AOF disk persistence. Sustained 9,950+ Req/Sec at 32.97ms latency.
+
+- **[Low-Latency HFT Order Matching Engine](https://github.com/stym01/Custom-Allocator-HFT-Engine)**  
+  Designed an HFT order matching engine in C++17 powered by custom memory allocators (Stack, Free-List, Pool, Linear). Zero-allocation architecture on the hot path reduced latency by 16x vs standard malloc/new.
+
+- **[Shortify: Multi-Layer Caching URL Shortener](https://github.com/stym01/Distributed-url-shortener-with-multi-layer-caching-and-rate-limiting)**  
+  Scalable URL shortening service with Node.js, PostgreSQL, and Redis. Engineered L1/L2 caching achieving 7.12ms latencies and a custom Token-Bucket rate limiter. 
+
+- **[RansomDroid: Android Ransomware Detection](https://github.com/stym01/Android-Ransomware-Detection-Using-Deep-Learning-ViT_CNN)**  
+  Pioneering Vision Transformer (ViT) approach for detecting Android ransomware. Achieved 99.78% accuracy on 4,280 APKs evaluated via CuckooDroid sandbox dynamic analysis. *(Accepted at ICDAM 2025)*
+
+- **[SOC & SOH Estimation (TinyML)](https://github.com/stym01/Iot-Project)**  
+  Offline diagnostic system on ESP32 using a novel Residual-Physics Neural Network (RPNN) with INT8 quantization in C++. Features real-time 'Virtual Cranking' algorithms. *(Accepted at NE-IECCE 2026)*
+
+---
+
+### 🏆 Key Achievements & Publications
+
+- **Amazon ML Summer School 2025** cohort selection.
+- **Amazon ML Challenge 2025**: Rank 2313 (Top 3%).
+- **LeetCode Knight**: Max Rating 1908.
+- **Global Rank 412**: Top 1% in Weekly Contest 497.
+- **Publications**:
+  - *"From Behavior to Pixels: A Vision Transformer Approach for Android Ransomware Detection"* - **ICDAM 2025 (Springer LNNS)**
+  - *"SOC and SOH Estimation of Lead-Acid Battery using IoT and Residual-Physics Neural Network"* - **NE-IECCE 2026 (IEEE)**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=stym01&theme=dark&hide_border=false" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Kotlin&exclude_repo=leetcode_editorial_solutions&layout=compact" alt="Top Langs" />
+</p>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=stym01&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</p>
