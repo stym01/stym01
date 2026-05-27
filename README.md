@@ -64,7 +64,7 @@
 
 ### 🏆 Key Achievements & Publications
 
-- **Amazon ML Summer School 2025** cohort selection.
+- **Amazon ML Summer School 2025**: Selected for Amazon India's mentorship program.
 - **Amazon ML Challenge 2025**: Rank 2313 (Top 3%).
 - **LeetCode Knight**: Max Rating 1908.
 - **Global Rank 412**: Top 1% in Weekly Contest 497.
