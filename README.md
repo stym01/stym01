@@ -79,5 +79,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stym01&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Kotlin&exclude_repo=leetcode_editorial_solutions&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Kotlin&exclude_repo=leetcode_editorial_solutions&layout=compact&langs_count=7" alt="Top Langs" />
 </p>
