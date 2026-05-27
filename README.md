@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>Backend & Systems Engineer | Pre-final year @ NIT Kurukshetra</b>
+  <b>Backend & Systems Engineer | Final year @ NIT Kurukshetra</b>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 ### 🚀 Quick Facts
-- 🎓 **Pre-final year Computer Engineering student** at NIT Kurukshetra.
+- 🎓 **Final year Computer Engineering student** at NIT Kurukshetra.
 - 💻 **Engineering systems that scale** (Distributed Systems, Low-Latency C++, ML).
 - ⚔️ **LeetCode Knight** (Max Rating 1908).
 - 📜 **Published researcher** (ICDAM 2025, NE-IECCE 2026).
