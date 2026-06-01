@@ -74,11 +74,18 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stym01&theme=dark&hide_border=false" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stym01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide=Kotlin&exclude_repo=leetcode_editorial_solutions&layout=compact&langs_count=7" alt="Top Langs" />
-</p>
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=stym01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stym01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stym01&theme=tokyonight&hide_border=true"/>
+
+</div>
