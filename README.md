@@ -49,7 +49,7 @@
   Architected a production-grade, distributed key-value database from scratch using C++17 and Linux epoll. Features a tiered storage engine (LRU Cache + Bloom Filter + B-Tree), a Consistent Hash Ring, asynchronous replication, and a masterless Gossip Protocol for high availability. Sustained 9,950+ Req/Sec at 32.97ms latency.
 
 - **[Low-Latency HFT Order Matching Engine](https://github.com/stym01/Custom-Allocator-HFT-Engine)**  
-  Designed an HFT order matching engine in C++17 powered by custom memory allocators (Stack, Free-List, Pool, Linear). Zero-allocation architecture on the hot path reduced latency by 16x vs standard malloc/new.
+  Designed an HFT order matching engine in C++17 powered by custom memory allocators (Stack, Free-List, Pool, Linear). Zero-allocation architecture on the hot path reduced latency by 16x (from 117ms to 7.35ms) vs standard malloc/new.
 
 - **[Shortify: Multi-Layer Caching URL Shortener](https://github.com/stym01/Distributed-url-shortener-with-multi-layer-caching-and-rate-limiting)**  
   Scalable URL shortening service with Node.js, PostgreSQL, and Redis. Engineered L1/L2 caching achieving 7.12ms latencies and a custom Token-Bucket rate limiter. 
