@@ -45,8 +45,8 @@
 
 ### 🔥 Featured Projects
 
-- **[AtomicKV: High-Throughput Database Engine](https://github.com/stym01/In-Memory-Key-Value-Storage-using-cpp)**  
-  Architected a production-grade, in-memory key-value store from scratch using C++17, Linux epoll, and TCP sockets. Built a custom O(1) LRU Cache, zero-overhead TTL expiration, and AOF disk persistence. Sustained 9,950+ Req/Sec at 32.97ms latency.
+- **[AtomicKV: Distributed Key-Value Database](https://github.com/stym01/AtomicKV)**  
+  Architected a production-grade, distributed key-value database from scratch using C++17 and Linux epoll. Features a tiered storage engine (LRU Cache + Bloom Filter + B-Tree), a Consistent Hash Ring, asynchronous replication, and a masterless Gossip Protocol for high availability. Sustained 9,950+ Req/Sec at 32.97ms latency.
 
 - **[Low-Latency HFT Order Matching Engine](https://github.com/stym01/Custom-Allocator-HFT-Engine)**  
   Designed an HFT order matching engine in C++17 powered by custom memory allocators (Stack, Free-List, Pool, Linear). Zero-allocation architecture on the hot path reduced latency by 16x vs standard malloc/new.
