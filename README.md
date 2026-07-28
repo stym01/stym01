@@ -2,11 +2,6 @@
 
 <div align="center">
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+High+Performance+Systems;Distributed+Systems+Enthusiast;Turning+Ideas+Into+Scalable+Software"/>
-
-
-
 <p align="center">
   <a href="https://satyamk.dev">
     <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -18,6 +13,8 @@
     <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-satyamk.dev-0e75b6?style=for-the-badge" alt="Visit My Portfolio" />
   </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+High+Performance+Systems;Distributed+Systems+Enthusiast;Turning+Ideas+Into+Scalable+Software"/>
 
 </div>
 
