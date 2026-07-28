@@ -1,5 +1,39 @@
 <h1 align="center">Hi 👋, I'm Satyam Kesharwani</h1>
 
+<div align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+High+Performance+Systems;Competitive+Programmer;Distributed+Systems+Enthusiast;Turning+Ideas+Into+Scalable+Software"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```ts
+const devansh = {
+  education: "Mathematics & Computing @ NIT Kurukshetra",
+
+  interests: [
+    "Systems Engineering",
+    "Distributed Systems",
+    "Algorithms",
+    "Computational Mathematics",
+    "Backend Architecture"
+  ],
+
+  currentlyLearning: [
+    "Database Internals",
+    "Distributed Systems Design",
+    "Kubernetes",
+    "Large Scale Infrastructure"
+  ],
+
+  funFact: "I think in algorithms and design systems for fun."
+};
+```
+
 <p align="center">
   <a href="https://satyamk.dev">
     <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
