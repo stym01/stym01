@@ -30,7 +30,6 @@ const satyam = {
     "Systems Engineering",
     "Distributed Systems",
     "Algorithms",
-    "Computational Mathematics",
     "Backend Architecture"
   ],
 
