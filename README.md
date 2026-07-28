@@ -23,8 +23,8 @@
 # 👨‍💻 About Me
 
 ```ts
-const devansh = {
-  education: "Mathematics & Computing @ NIT Kurukshetra",
+const satyam = {
+  education: "Computer Engineering @ NIT Kurukshetra",
 
   interests: [
     "Systems Engineering",
@@ -39,9 +39,8 @@ const devansh = {
     "Distributed Systems Design",
     "Kubernetes",
     "Large Scale Infrastructure"
-  ],
+  ]
 
-  funFact: "I think in algorithms and design systems for fun."
 };
 ```
 
