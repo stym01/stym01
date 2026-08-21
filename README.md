@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://satyamk.dev">
-    <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-satyamk.dev-0e75b6?style=for-the-badge" alt="Visit My Portfolio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://satyamk.dev">
-    <img src="https://img.shields.io/badge/✨_Visit_My_Portfolio-satyamk.dev-0e75b6?style=for-the-badge" alt="Visit My Portfolio" />
+    <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
