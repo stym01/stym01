@@ -97,7 +97,7 @@ const satyam = {
 
 ## 📈 GitHub Insights
 
-Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech magic takes time!)
+Check out a snapshot of my coding adventures! 
 
 <div align="left">
   
