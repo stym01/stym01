@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://satyamk.dev">
-    <img src="https://komarev.com/ghpvc/?username=stym01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -117,5 +111,3 @@ Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech
 <a href="https://github.com/stym01">
   <img alt="Profile view counter" src="https://komarev.com/ghpvc/?username=stym01&color=blueviolet&style=flat-square&label=Profile+Views" />
 </a>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stym01&theme=tokyonight&hide_border=true"/>
