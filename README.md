@@ -101,18 +101,18 @@ const satyam = {
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Insights
 
-<div align="center">
+Check out a snapshot of my coding adventures! (Stats update every 4 hours—tech magic takes time!)
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=stym01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="left">
+  
+### 📊 GitHub Stats
+[![Swapnil's GitHub statistics showing commits, PRs, and contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SwapnilAryan97&theme=radical)](https://github.com/SwapnilAryan97)
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stym01&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🔥 Contribution Streak
 
-</div>
+[![GitHub contribution streak statistics](https://streak-stats.demolab.com/?user=SwapnilAryan97&theme=radical&hide_border=true)](https://github.com/SwapnilAryan97)
 
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stym01&theme=tokyonight&hide_border=true"/>
-
-</div>
