@@ -67,19 +67,19 @@ const satyam = {
 ### 🔥 Featured Projects
 
 - **[AtomicKV: Distributed Key-Value Database](https://github.com/stym01/AtomicKV)**  
-  Architected a production-grade, distributed key-value database from scratch using C++17 and Linux epoll. Features a tiered storage engine (LRU Cache + Bloom Filter + B-Tree), a Consistent Hash Ring, asynchronous replication, and a masterless Gossip Protocol for high availability. Sustained 9,950+ Req/Sec at 32.97ms latency.
+  Architected a production-grade, distributed key-value database from scratch using C++17 and Linux epoll. Features a tiered storage engine (LRU Cache + Bloom Filter + B-Tree), a Consistent Hash Ring, asynchronous replication, and a masterless Gossip Protocol for high availability. Sustained 10,000+ req/sec with ~16 ms average latency under 200 concurrent clients.
 
-- **[Low-Latency HFT Order Matching Engine](https://github.com/stym01/Custom-Allocator-HFT-Engine)**  
-  Designed an HFT order matching engine in C++17 powered by custom memory allocators (Stack, Free-List, Pool, Linear). Zero-allocation architecture on the hot path reduced latency by 16x (from 117ms to 7.35ms) vs standard malloc/new.
+- **[Custom Allocators & Order Matching Engine](https://github.com/stym01/Custom-Allocator-HFT-Engine)**  
+  Four memory allocators (Linear, Stack, Pool, Free-List) written from scratch in C++17 and used in a limit-order-book matching engine that never calls new/malloc on the matching path. Over 1M alloc/free operations, the pool allocator is ~2.5x and the linear allocator ~15x faster than glibc new/delete.
 
 - **[Shortify: Multi-Layer Caching URL Shortener](https://github.com/stym01/Distributed-url-shortener-with-multi-layer-caching-and-rate-limiting)**  
   Scalable URL shortening service with Node.js, PostgreSQL, and Redis. Engineered L1/L2 caching achieving 7.12ms latencies and a custom Token-Bucket rate limiter. 
 
 - **[RansomDroid: Android Ransomware Detection](https://github.com/stym01/Android-Ransomware-Detection-Using-Deep-Learning-ViT_CNN)**  
-  Pioneering Vision Transformer (ViT) approach for detecting Android ransomware. Achieved 99.78% accuracy on 4,280 APKs evaluated via CuckooDroid sandbox dynamic analysis. *(Accepted at ICDAM 2025)*
+  Pioneering Vision Transformer (ViT) approach for detecting Android ransomware. Achieved 99.78% accuracy on 4,280 APKs evaluated via CuckooDroid sandbox dynamic analysis. *(Published at ICDAM 2025, Springer)*
 
 - **[SOC & SOH Estimation (TinyML)](https://github.com/stym01/Iot-Project)**  
-  Offline diagnostic system on ESP32 using a novel Residual-Physics Neural Network (RPNN) with INT8 quantization in C++. Features real-time 'Virtual Cranking' algorithms. *(Accepted at NE-IECCE 2026)*
+  Offline diagnostic system on ESP32 using a novel Residual-Physics Neural Network (RPNN) with INT8 quantization in C++. Features real-time 'Virtual Cranking' algorithms. *(Published at NE-IECCE 2026, IEEE)*
 
 ---
 
@@ -87,8 +87,8 @@ const satyam = {
 
 - **Amazon ML Summer School 2025**: Selected for Amazon India's mentorship program.
 - **Amazon ML Challenge 2025**: Rank 2313 (Top 3%).
-- **LeetCode Knight**: Max Rating 1908.
-- **Global Rank 412**: Top 1% in Weekly Contest 497.
+- **LeetCode Knight**: Max Rating 1908 (top 5%).
+- **LeetCode Weekly Contest 497**: Global Rank 412 of 35,968.
 - **Publications**:
   - *"From Behavior to Pixels: A Vision Transformer Approach for Android Ransomware Detection"* - **ICDAM 2025 (Springer LNNS)**
   - *"SOC and SOH Estimation of Lead-Acid Battery using IoT and Residual-Physics Neural Network"* - **NE-IECCE 2026 (IEEE)**
