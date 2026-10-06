@@ -86,6 +86,7 @@ const satyam = {
 ### 🏆 Key Achievements & Publications
 
 - **Amazon ML Summer School 2025**: Selected for Amazon India's machine learning program.
+- **Amazon ML Challenge 2026**: Rank 313 of 26,636 teams.
 - **Amazon ML Challenge 2025**: Rank 2,313 of 19,556 teams.
 - **LeetCode Knight**: Max Rating 1908 (top 5%).
 - **LeetCode Weekly Contest 497**: Global Rank 412 of 35,968.
